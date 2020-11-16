@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PerfectWeatherTrue</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="st"></string>
+
+    <string-array name="ArrayCity">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Екатеринбург</item>
+        <item>Сызрань</item>
+        <item>Рязань</item>
+        <item>Тула</item>
+        <item>Подольск</item>
+        <item>Балашиха</item>
+        <item>Мытищи</item>
+        <item>Королев</item>
+        <item>Долгопрудный</item>
+        <item>Химки</item>
+        <item>Красногорск</item>
+        <item>Одинцово</item>
+        <item>Троицк</item>
+    </string-array>
+
+
+
+</resources>
